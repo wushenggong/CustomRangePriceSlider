@@ -1,3 +1,3 @@
 # CustomRangePriceSlider
 
-https://github.com/wushenggong/CustomRangePriceSlider/blob/master/priceSlider.png
+![效果图](https://github.com/wushenggong/CustomRangePriceSlider/blob/master/priceSlider.png)
